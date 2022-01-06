@@ -14,6 +14,9 @@
 #edge case: IF at the same index some passengers are dropped and some of them are pickup then store the final res value of that index. 
 #example: at particular index, -3 are dropped and 2 are pick up then result to that index is -3+2 = -1
 
+#TC - O(N)
+#SC - O(N)
+
 def pool(nums,capacity):
     total_passenger = 0
     aux = [0]*1001
