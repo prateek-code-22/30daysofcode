@@ -8,4 +8,4 @@ Solving daily leetcode questions for next 365 days.
 4. [Complement of base 10](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Complement_of_base_10.py)
 5. [Palindrome Partitioning](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Palindrome_Partitioning.py)
 6. [Car Pooling](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Car_Pooling.py)
-
+7. [Linked List Random Node](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Linked_list_random_node.py)
