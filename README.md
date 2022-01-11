@@ -11,4 +11,5 @@ Solving daily leetcode questions for next 365 days.
 7. [Linked List Random Node](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Linked_list_random_node.py)
 8. [Cherry Pickup](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/cherry_pickup.py)
 9. [Robot Bounded in Circle](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Robot_bounded_in_circle.py)
-10.[Add Binary](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Add_binary.py)
+10. [Add Binary](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Add_binary.py)
+11. [Sum to root to leaf binary Number](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.py)
