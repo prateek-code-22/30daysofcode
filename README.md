@@ -13,3 +13,4 @@ Solving daily leetcode questions for next 365 days.
 9. [Robot Bounded in Circle](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Robot_bounded_in_circle.py)
 10. [Add Binary](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Add_binary.py)
 11. [Sum to root to leaf binary Number](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.py)
+12. [Insert in Binary Search Tree](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Insert_in_binary_tree.py)
