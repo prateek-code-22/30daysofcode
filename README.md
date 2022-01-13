@@ -14,3 +14,4 @@ Solving daily leetcode questions for next 365 days.
 10. [Add Binary](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Add_binary.py)
 11. [Sum to root to leaf binary Number](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.py)
 12. [Insert in Binary Search Tree](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Insert_in_binary_tree.py)
+13. [Minimum Number of Arrows to Burst Balloons](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.py)
