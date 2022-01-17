@@ -18,3 +18,4 @@ Solving daily leetcode questions for next 365 days.
 14. [String to Integer (atoi)](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/String%20to%20Integer%20(atoi).py)
 15. [Jump Game 4](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/jump_game_4.py)
 16. [Maximum Distance to closest person](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Maximize%20Distance%20to%20Closest%20Person.py)
+17. [Word Pattern](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Word_pattern.py)
