@@ -20,3 +20,4 @@ Solving daily leetcode questions for next 365 days.
 16. [Maximum Distance to closest person](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Maximize%20Distance%20to%20Closest%20Person.py)
 17. [Word Pattern](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Word_pattern.py)
 18. [Can place Flower](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/can%20place%20flower.py)
+19. [Linked list cycle ||](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/LinkedList%20cycle%202.py)
