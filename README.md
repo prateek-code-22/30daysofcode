@@ -25,3 +25,4 @@ Solving daily leetcode questions for next 365 days.
 21. [Gas Station](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Gas%20station.py)
 22. [Stone Game 4](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Stone%20Game%204.py)
 23. [Sequential Digits](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Sequential%20Digits.py)
+24. [Detect Capital](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Detect%20Capital.py)
