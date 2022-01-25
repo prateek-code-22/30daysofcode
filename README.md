@@ -26,3 +26,4 @@ Solving daily leetcode questions for next 365 days.
 22. [Stone Game 4](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Stone%20Game%204.py)
 23. [Sequential Digits](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Sequential%20Digits.py)
 24. [Detect Capital](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Detect%20Capital.py)
+25. [Valid Mountain Array](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Valid%20Mountain%20Array.py)
