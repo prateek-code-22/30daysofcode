@@ -27,3 +27,4 @@ Solving daily leetcode questions for next 365 days.
 23. [Sequential Digits](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Sequential%20Digits.py)
 24. [Detect Capital](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Detect%20Capital.py)
 25. [Valid Mountain Array](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Valid%20Mountain%20Array.py)
+26. [All Elements in Two Binary Search Tree](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/All%20Elements%20in%20Two%20Binary%20Search%20Trees.py)
