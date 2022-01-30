@@ -31,3 +31,4 @@ Solving daily leetcode questions for next 365 days.
 27. [Maximum Xor of two element in array](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Maximum%20xor%20of%20element%20in%20array.py)
 28. [Design Add and Search Words Data Structure](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Design%20add%20and%20search%20word%20dictionary.py)
 29. [Largest Rectangle in histogram](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Largest%20rectangle%20in%20histogram.py)
+30. [Rotate Array](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Rotate%20array.py)
