@@ -1,5 +1,5 @@
-## 365daysofLeetcode
-Solving daily leetcode questions for next 365 days.
+## 30daysofLeetcode
+Solving daily leetcode problems.
 
 ## January Question List
 1. [Brust Balloons](https://github.com/prateek-code-22/365daysofLeetcode/blob/main/Daily%20Questions/January/Brust_Balloons.py)
